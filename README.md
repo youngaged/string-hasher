@@ -1,0 +1,2 @@
+# string-hasher
+string-hasher
